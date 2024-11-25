@@ -2,8 +2,8 @@
 
 git submodule add https://github.com/dnlwllms/icons.git [path]
 
-1.git submodule update --init --recursive
+git submodule update --init --recursive
 
-2.git submodule update --remote
+git submodule update --remote
 
-3.yarn install
+yarn install
